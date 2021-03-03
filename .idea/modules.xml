@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Madlibs.iml" filepath="$PROJECT_DIR$/Madlibs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Magic8Ball/Magic8Ball.iml" filepath="$PROJECT_DIR$/Magic8Ball/Magic8Ball.iml" />
     </modules>
   </component>
 </project>
