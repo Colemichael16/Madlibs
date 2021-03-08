@@ -16,7 +16,7 @@ public class Magic8Balls {
             Random randNum = new Random();
             int num = randNum.nextInt(20);
             System.out.println(Answers[num]);
-            System.out.println("Do you have any more questions? Type yes or no.");
+            System.out.println("Do you have any more questions? Say no if you want to exit.");
             String answer = scan.nextLine();
 
             if (answer.equalsIgnoreCase("no")) {
